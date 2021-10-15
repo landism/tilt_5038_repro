@@ -30,9 +30,9 @@ dependencies:
   - name: kafka
     version: 14.0.5
     repository: https://charts.bitnami.com/bitnami
-  - name: nginx-ingress
+  - name: traefik
     version: 0.1.0
-    repository: file://nginx-ingress
+    repository: file://traefik
   - name: opentelemetry-collector
     version: 0.5.10
     repository: https://open-telemetry.github.io/opentelemetry-helm-charts
