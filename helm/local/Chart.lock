@@ -1,0 +1,12 @@
+dependencies:
+- name: mongodb
+  repository: https://charts.bitnami.com/bitnami
+  version: 10.25.1
+- name: kafka
+  repository: https://charts.bitnami.com/bitnami
+  version: 14.0.5
+- name: opentelemetry-collector
+  repository: https://open-telemetry.github.io/opentelemetry-helm-charts
+  version: 0.5.10
+digest: sha256:cb360cad8c4313cb9b69d1ed8c9f0c605827987428de3a064dd8ca9f2efb408f
+generated: "2021-10-15T12:44:25.394129-04:00"

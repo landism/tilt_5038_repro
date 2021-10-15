@@ -1,0 +1,9 @@
+dependencies:
+- name: elasticsearch
+  repository: https://helm.elastic.co
+  version: 7.15.0
+- name: jaeger-operator
+  repository: https://jaegertracing.github.io/helm-charts
+  version: 2.25.0
+digest: sha256:c3ee718abdba80a15a416b88b719a7d4a4043dca4ad96d49792b5e15bf6bb83b
+generated: "2021-10-15T12:40:43.698989-04:00"
